@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Khalasi Krishna
 
-🚀 Full Stack Developer | ASP.NET Core | MERN Stack | C# | Java | SQL
+🚀 Full Stack Developer | ASP.NET Core | C# | Java | SQL
 
 Welcome to my personal portfolio website! This project showcases my skills, projects, education, internship experience, and contact information in a modern, responsive web application.
 
