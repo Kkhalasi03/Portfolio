@@ -4,7 +4,7 @@
 
 Welcome to my personal portfolio website! This project showcases my skills, projects, education, internship experience, and contact information in a modern, responsive web application.
 
-🌐 **Live Portfolio:** https://kkhalasi03.github.io/Portfolio/ || krishna-khalasi-portfolio.netlify.app
+🌐 **Live Portfolio:** https://kkhalasi03.github.io/Portfolio/ || https://krishna-khalasi-portfolio.netlify.app/
                       
 
 ---
